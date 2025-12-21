@@ -1,5 +1,3 @@
-# my-project-
-Github project 
 # Simple Calculator in C
 
 ## Description
@@ -20,3 +18,4 @@ such as addition, subtraction, multiplication, and division.
 
 ## Author
 PRANAVI
+
